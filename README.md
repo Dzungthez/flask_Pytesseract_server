@@ -1,0 +1,1 @@
+# flask_Pytesseract_server
